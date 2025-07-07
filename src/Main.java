@@ -1,5 +1,3 @@
-//import energiaEletrica.src.Endereco;
-
 public class Main {
     public static void main(String[] args) {
         int quantidadeComCodigo = 0, temCPF = 0, temArapiraca = 0;
