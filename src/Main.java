@@ -50,7 +50,8 @@ public class Main {
             System.out.println("Existe cliente que mora em arapiraca");
         } else {
             System.out.println("Não existe cliente que mora em arapiraca");
-        }System.out.println("---------------------\n");
+        }
+        System.out.println("---------------------\n");
 
         cliente2.setNome("juliana barbosa");
         System.out.println(cliente2.getData());
